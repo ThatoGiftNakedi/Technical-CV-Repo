@@ -1,0 +1,20 @@
+:root{
+
+    --foundation_Colour: #15202B;
+    --sec_Colour: #192734;
+ 
+ 
+    --border_Colour: #164D56;
+
+
+    --base_Text: #fff;
+    --sec_Text:#eeeeee;
+
+    --theme_Point_Border:#fff;
+ 
+    --show_Bg: rgba(25, 39, 52, 0.8);
+    --showPrev_Shadow:  #111921;
+ 
+    --btn_Color: #17a2b8;
+ 
+ }
